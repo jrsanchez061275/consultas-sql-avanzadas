@@ -22,6 +22,12 @@ Consulta la definición de tablas aquí 👉 [estructura.sql](estructura.sql)
 
 Consulta el archivo 👉 [consultas.sql](consultas.sql)
 
+📅 Prácticas por día:
+- Día 1: Filtros y operadores → [dia1_filtros_basicos.sql](dia1_filtros_basicos.sql)
+- Día 2: JOINs → [dia2_joins.sql](dia2_joins.sql)
+- Día 3: GROUP BY y HAVING → [dia3_groupby_having.sql](dia3_groupby_having.sql)
+
+
 ---
 
 ## 💡 ¿Por qué este proyecto?
