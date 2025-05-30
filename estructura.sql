@@ -1,20 +1,20 @@
 -- Tabla de clientes
 CREATE TABLE clientes (
-    id INT PRIMARY KEY,
+    id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(100),
     correo VARCHAR(100)
 );
 
 -- Tabla de productos
 CREATE TABLE productos (
-    id INT PRIMARY KEY,
+    id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(100),
     precio DECIMAL(10,2)
 );
 
 -- Tabla de ventas
 CREATE TABLE ventas (
-    id INT PRIMARY KEY,
+    id INT AUTO_INCREMENT PRIMARY KEY,
     producto_id INT,
     cliente_id INT,
     fecha_venta DATE,
